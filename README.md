@@ -6,7 +6,7 @@ This repo contains some of my projects, including frontend demos and backend pro
 ## Projects
 
 ### Frontend
-- [Tic Tac Toe](./frontend/tic-tac-toe)  
+- [Tic Tac Toe](./TicTacToe)  
   A simple two-player Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 ### Backend
